@@ -1,0 +1,8 @@
+comtypes
+mutagen
+hachoir_metadata
+hachoir_parser
+hachoir_core
+bs4
+google-api-python-client
+cefpython3

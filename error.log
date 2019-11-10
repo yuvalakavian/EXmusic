@@ -1,0 +1,24 @@
+
+[2016-06-06 00:02:50] Traceback (most recent call last):
+
+  File "task.pyx", line 55, in cefpython_py27.PyTaskRunnable (cefpython.cpp:29291)
+
+  File "G:\cyber\2016\project\youtube\full project\CEF.py", line 668, in _CreatePopup
+    frame = MainFrame(url=url, popup=True)
+
+TypeError: __init__() takes at least 7 arguments (3 given)
+
+
+[2016-06-04 02:13:26] Traceback (most recent call last):
+
+  File "F:/cyber/2016/project/youtube/full project/Youtube_Preview.py", line 471, in OnSelect
+    self.LoadIt(videoid)
+
+  File "F:/cyber/2016/project/youtube/full project/Youtube_Preview.py", line 649, in LoadIt
+    self.Create_Html(videoid)
+
+  File "F:/cyber/2016/project/youtube/full project/Youtube_Preview.py", line 656, in Create_Html
+    os.remove(os.getcwd()+"\\"+"test.html")
+
+WindowsError: [Error 5] : 'F:\\cyber\\2016\\project\\youtube\\full project\\test.html'
+
