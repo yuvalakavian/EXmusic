@@ -5,4 +5,4 @@ EXmusic is a breakthrough in the media experience a user can get. From using the
 ![youtube player preview](https://i.ibb.co/KXCc7jK/1.png)
 
 ## Local Mp3 Player
-![local mp3 player preview](https://i.ibb.co/kK9bgR3/2.png)
+![local mp3 player preview](https://i.ibb.co/WDGH27c/3.png)
